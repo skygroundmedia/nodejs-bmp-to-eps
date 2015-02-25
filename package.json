@@ -1,0 +1,17 @@
+{
+  "name": "bmptoeps",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "async": "^0.9.0"
+  },
+  "engines": {
+    "node": "0.8.x"
+  },
+  "unused-dependencies": {
+    "nodemon": "0.6.x"
+  }
+}
